@@ -4,6 +4,8 @@ this is an application project that will help you with your daily routine
 * conveniently plan your day,
 * leave notes,
 * add dreams and goals for a month or a year
+
+
 **Programmingg laguages:**
   * HTML
   * CSS
